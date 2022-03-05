@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_btn_main_showSensors">Mostra i sensori del dispositivo</string>
+    <string name="str_btn_main_trySensors">Visualizza dati dai sensori</string>
+    <string name="str_btn_main_useCases">Casi d\'uso</string>
+    <string name="accelerometer">Accelerometro</string>
+    <string name="gyroscope">Giroscopio</string>
+    <string name="magnetometer">Magnetometro</string>
+    <string name="proximity">Prossimità</string>
+    <string name="light_sensor">Luminosità</string>
+    <string name="sensor_about_name">Nome:</string>
+    <string name="sensor_about_vendor">Venditore:</string>
+    <string name="sensor_about_type">Tipo:</string>
+    <string name="sensor_about_range">Valore max:</string>
+    <string name="sensor_about_resolution">Risoluzione:</string>
+    <string name="sensor_about_power">Energia:</string>
+    <string name="sensor_about_delay">Ritardo:</string>
+    <string name="title_data_sensors">Dati dei Sensori</string>
+    <string name="title_device_sensors">Sensori del Dispositivo</string>
+    <string name="acc_x_ax">Accelerazione sull\'asse X (in m/s^2):</string>
+    <string name="acc_y_ax">Accelerazione sull\'asse Y (in m/s^2):</string>
+    <string name="acc_z_ax">Accelerazione sull\'asse Z (in m/s^2):</string>
+    <string name="filter_force_of_gravity">"Filtra forza di gravità* "</string>
+    <string name="got_it">Grazie, ricevuto!</string>
+    <string name="about_app">Informazioni su questa App</string>
+    <string name="using_lin_acc">Misurando con un Accelerometro Lineare</string>
+    <string name="missing_lin_acc">Il tuo dispositivo non ha un Acceleratore Lineare, provo a filtrare la forza di gravità usando la matematica… Faccio del mio meglio!</string>
+    <string name="about_app_text">
+        Questa App è stata sviluppata per l\'esonero del corso di Mobile Programming sui sensori. Esistono un sacco di sensori, ma per il progetto abbiamo deciso di concentrarci solo su alcuni di questi. Per sapere qualcosa sugli altri sensori puoi leggere la nostra presentazione.
+        \n\nPremendo il primo bottone potrai vedere i dati come vengono collezionati dai sensori.
+        \nPremendo il secondo invece troverai qualche applicazione (crediamo) divertente o utile di uno o più sensori.
+        \n\nQuesta App è stata sviluppata da Filippo Maria Briscese e Davide Ilardi, membri del gruppo DualCore.\n\nUniversità degli studi di Roma Tor Vergata</string>
+    <string name="str_call">Chiamata</string>
+    <string name="str_compass">Bussola</string>
+    <string name="str_level">Livella</string>
+    <string name="str_saber">Spada Laser</string>
+    <string name="mag_x_ax">Campo magnetico sull\'asse X (in picoT):</string>
+    <string name="mag_y_ax">Campo magnetico sull\'asse Y (in picoT):</string>
+    <string name="mag_z_ax">Campo magnetico sull\'asse Z (in picoT):</string>
+    <string name="str_close">Chiudi</string>
+    <string name="str_compass_calibration">Per favore mantieni il tuo dispositivo parallelo al suolo e lontano da altre fonti di segnali elettromagnetici.\n\nPer migliorare la calibrazione della bussola puoi muovere il tuo dispositivo descrivendo un 8.</string>
+    <string name="rot_x_ax">"Rotazione intorno asse X (rad/s): "</string>
+    <string name="rot_y_ax">"Rotazione intorno asse Y (rad/s): "</string>
+    <string name="rot_z_ax">"Rotazione intorno asse Z (rad/s): "</string>
+    <string name="sensor_about_version">"Versione: "</string>
+    <string name="str_illuminance">"Luminosità (lx): "</string>
+    <string name="str_no_obj_detect">Nessun oggetto rilevato.</string>
+    <string name="str_obj_detected">Oggetto rilevato!</string>
+    <string name="str_call_in">Chiamata in arrivo</string>
+    <string name="str_speakerphone">Vivavoce</string>
+
+
+</resources>

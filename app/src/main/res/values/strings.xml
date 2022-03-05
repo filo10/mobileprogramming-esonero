@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name" translatable="false">Sensonero</string>
+    <string name="title_device_sensors">Device\'s Sensors</string>
+    <string name="title_data_sensors">Sensors\' Data</string>
+    <string name="about_app">About this App</string>
+    <string name="about_app_text">"This App was developed for the Mobile Programming Midterm project about sensors. There are a lot of sensors, but we choose to focus on just few of them. You can find more about other sensors in our research presentation.\n\nBy pressing the first button you can see the raw data collected by a sensor.\nPressing the second one you\'ll find some (we think) funny or useful application of one or more sensors.\n\nThis App was developed by Filippo Maria Briscese and Davide Ilardi, for this project a.k.a. the DualCore team.\n\nUniversità degli studi di Roma Tor Vergata"</string>
+
+    <string name="str_btn_main_showSensors">Show device\'s sensors</string>
+    <string name="str_btn_main_trySensors">Visualize data from sensors</string>
+    <string name="str_btn_main_useCases">Use cases</string>
+
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="proximity">Proximity</string>
+    <string name="light_sensor">Light sensor</string>
+
+    <string name="sensor_about_name">Name:</string>
+    <string name="sensor_about_vendor">Vendor:</string>
+    <string name="sensor_about_type">Type:</string>
+    <string name="sensor_about_range">Max Range:</string>
+    <string name="sensor_about_resolution">Resolution:</string>
+    <string name="sensor_about_power">Power:</string>
+    <string name="sensor_about_delay">Min Delay:</string>
+
+    <string name="acc_x_ax">Acceleration on X axis (in m/s^2):</string>
+    <string name="acc_y_ax">Acceleration on Y axis (in m/s^2):</string>
+    <string name="acc_z_ax">Acceleration on Z axis (in m/s^2):</string>
+    <string name="filter_force_of_gravity">"Filter force of gravity* "</string>
+    <string name="got_it">Got it, thanks!</string>
+    <string name="using_lin_acc">You\'re actually using a Linear Accelerometer</string>
+    <string name="missing_lin_acc">Your device does not have a Linear Accelerometer, I\'ll try to filter gravity using math… Doin\' my best!</string>
+    <string name="str_compass">Compass</string>
+    <string name="str_level">Level</string>
+    <string name="str_saber">Light Saber</string>
+    <string name="str_call">Call</string>
+    <string name="mag_x_ax">Magnetic field on X axis (in picoT):</string>
+    <string name="mag_y_ax">Magnetic field on Y axis (in picoT):</string>
+    <string name="mag_z_ax">Magnetic field on Z axis (in picoT):</string>
+    <string name="str_close">Close</string>
+    <string name="str_compass_calibration">Please keep your device parallel to the ground and far from other electromagnetic sources.\n\nTo improve calibration of the compass, move your device in a 8-figure.</string>
+    <string name="sensor_about_version">Version:</string>
+    <string name="str_obj_detected">Object detected!</string>
+    <string name="str_no_obj_detect">No object detected.</string>
+    <string name="rot_x_ax">Rotation rate around X (rad/s):</string>
+    <string name="rot_y_ax">Rotation rate around Y (rad/s):</string>
+    <string name="rot_z_ax">Rotation rate around Z (rad/s):</string>
+    <string name="str_illuminance">Illuminance (lx):</string>
+    <string name="str_speakerphone">Speaker</string>
+    <string name="str_call_in">Incoming Call</string>
+
+</resources>
